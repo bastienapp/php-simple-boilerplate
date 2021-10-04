@@ -5,7 +5,7 @@
     <?php require_once('_header.php'); ?>
 
     <main>
-    <?php require_once('controller/' . $page); ?>
+    <?php require_once($page); ?>
     </main>
 
     <?php require_once('_footer.php'); ?>
