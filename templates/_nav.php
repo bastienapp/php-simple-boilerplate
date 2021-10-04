@@ -1,5 +1,4 @@
 <header>
-    <h1>Login</h1>
     <nav>
         <ul>
             <li><a href="/">Home</a></li>

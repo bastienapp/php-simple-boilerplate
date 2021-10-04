@@ -1,3 +1,21 @@
 body {
+    font-size: 16px;
     background-color: antiquewhite;
+    padding: 0.5rem;
+}
+
+nav > ul {
+    display: flex;
+    gap: 1rem;
+    padding: 0 0 1rem;
+    margin: 0;
+}
+
+nav > ul > li {
+    list-style: none;
+}
+
+footer {
+    padding-top: 1rem;
+    text-align: center;
 }

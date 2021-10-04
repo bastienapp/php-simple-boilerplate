@@ -11,4 +11,5 @@ switch ($_SERVER['REQUEST_METHOD']) {
         $page = "contact-us.php";
 }
 
+$styles = ['contact-us.css'];
 require_once('../templates/_base.php');
